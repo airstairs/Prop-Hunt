@@ -1,7 +1,9 @@
 # Prop-Hunt
 hunt props   
 
-![icl](icon.png)  
+![icl](icon.png)    
+
+pro tip: you can auto rotate to a new orientation to restart or you can quit app and re open tonstart new life 
 
 
 ![1](1.png)  

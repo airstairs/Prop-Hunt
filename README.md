@@ -1,5 +1,7 @@
 # Prop-Hunt
-hunt props   
+hunt props    
+
+![onmymommathistharealestshit](recording.gif)  
 
 ![icl](icon.png)    
 
